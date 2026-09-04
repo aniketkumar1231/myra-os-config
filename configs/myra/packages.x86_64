@@ -133,3 +133,6 @@ lightdm
 lightdm-gtk-greeter
 xorg-server
 mesa
+arc-gtk-theme
+papirus-icon-theme
+feh
